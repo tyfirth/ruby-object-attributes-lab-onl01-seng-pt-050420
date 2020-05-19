@@ -13,7 +13,7 @@ class Person
   end
   
   def job
-    @person_job
+    @job
   end
   
 end
